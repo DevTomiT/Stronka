@@ -21,7 +21,7 @@ body {
 .profile-card {
     background: rgba(255, 255, 255, 0.025);
     backdrop-filter: blur(2.5px); /* Blur effect */
-    border-radius: 15px;
+    border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
     padding: 30px;
     text-align: center;
@@ -43,8 +43,9 @@ body {
 }
 
 .bio {
+
     font-size: 14px;
-    /* font-weight: bolder; */
+    font-weight: 550;
     color: rgba(255, 255, 255, 0.8); /* Semi-transparent text */
     margin-bottom: 30px;
 }
@@ -61,7 +62,7 @@ body {
     color: #fff;
     background: rgba(255, 255, 255, 0.15); /* Semi-transparent background */
     padding: 12px 25px;
-    border-radius: 100px;
+    border-radius: 8px;
     font-size: 16px;
     font-weight: 600;
     transition: background 0.3s ease, transform 0.3s ease;
