@@ -1,1 +1,0 @@
-console.log("Bingo, bango, bongo; bish, bash, bosh.\n\nI`ll try to update the website with new stuff as i work on it")
